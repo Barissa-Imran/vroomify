@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 :root {
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
